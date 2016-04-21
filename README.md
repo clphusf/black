@@ -94,14 +94,14 @@ git pull
 * * *
 
 ## Commands
-BlackPlus has several commands that are only usable at certain ranks.
+Dimon has several commands that are only usable at certain ranks.
 
 
 ## General Commands {#general_commands}
 | Command | Description |
 |:--------|:------------|
 | [#!/]id | Returns group/SuperGroup ID & more or user id in pm. |
-| [#!/]black | Returns bot information. |
+| [#!/]dimon | Returns bot information. |
 
 
 ## Private Message Commands {#privmsg_commands}
