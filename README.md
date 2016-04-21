@@ -1,11 +1,11 @@
-# [BlackPlus](https;//telegram.me/blackplus) > [GitHub](https://GitHub.com/Mehdi-HS/BlackPlus) | [Site](http://BlackPlus.ir) |  [Channel](https://telegram.me/black_ch)
+# [BlackPlus](https;//telegram.me/team_dimon) > [GitHub](https://GitHub.com/ddimon/bbk) | [Channel](https://telegram.me/tele_dimon)
 * * *
 *New Bot For Manage Your SuperGroups.
 
 *A Advanced Bot Based In Teleseed (Normal Groups)
 
 * * *
-# [BlackPlus](https://telegram.me/Blackplus) Uses "Anticrash" & "Autolaunch" To Be Active All The Time
+# [dimon](https://telegram.me/tele_dimon) Uses "Anticrash" & "Autolaunch" To Be Active All The Time
 # آموزش نصب سروس
 1. کد زیر را در ترمینال وارد کنید.
 
