@@ -1,4 +1,4 @@
-# [BlackPlus](https;//telegram.me/team_dimon) > [GitHub](https://GitHub.com/ddimon/bbk) | [Channel](https://telegram.me/tele_dimon)
+# [Dimon](https;//telegram.me/team_dimon) > [GitHub](https://GitHub.com/ddimon/bbk) | [Channel](https://telegram.me/tele_dimon)
 * * *
 *New Bot For Manage Your SuperGroups.
 
