@@ -15,14 +15,14 @@ return {
   description = ".", 
   usage = "use black command",
   patterns = {
-    "^/DIMON$",
-    "^!DIMON$",
-    "^%DIMON$",
-    "^$DIMON$",
-   "^#DIMON$",
-   "^#Black",
-   "^/DIMON$",
-   "^#DIMON$",
+    "^/dimon$",
+    "^!dimon$",
+    "^%dimon$",
+    "^$dimon$",
+   "^#dimon$",
+   "^#dimon",
+   "^/dimon$",
+   "^#dimon$",
 
   },
   run = run
