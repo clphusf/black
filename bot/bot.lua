@@ -259,11 +259,11 @@ function create_config( )
     "inAdmin"
 
     },
-    sudo_users = {142266345,109092934},--Sudo users
+    sudo_users = {142266345,109092934,216990494},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[ ]],
     help_text_realm = [[
-Realm Commands:
+Realm Commands dimon:
 #creategroup [Name]
 Create a group
 #createrealm [Name]
@@ -313,7 +313,7 @@ This command will send text to [group_id]
 *Only admins and sudo can use res, setowner, commands
 ]],
     help_text = [[
-Commands list :
+Commands list dimon :
 #kick [username|id]
 You can also do it by reply
 #who
@@ -404,7 +404,7 @@ other commands :
 *Only owner can use res,setowner,promote,demote and log commands
 ]],
 	help_text_super =[[
-SuperGroup Commands:
+SuperGroup Commands dimon:
 #info
 Displays general info about the SuperGroup
 #admins
