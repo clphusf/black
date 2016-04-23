@@ -232,7 +232,6 @@ function create_config( )
     "antiRejoin",
     "pmLoad",
     "inSudo",
-    "blackPlus",
     "toSticker(Text_to_stick)",
     "toPhoto_By_Reply",
     "inPm",
@@ -502,10 +501,6 @@ other commands :
 Channel : @team_dimon
 ]],
   }
-  serialize_to_file(config, './data/config.lua')
-  print('saved config into ./data/config.lua')
-end
-
 function on_our_id (id)
   our_id = id
 end
@@ -534,11 +529,6 @@ function load_plugins()
       local t = loadfile("plugins/"..v..'.lua')()
       plugins[v] = t
     end)
-
-    if not ok then
-      print('\27[31mError loading plugin '..v..'\27[39m')
-	  print(tostring(io.popen("lua plugins/"..v..".lua"):read('*all')))
-      print('\27[31m'..err..'\27[39m')
     end
 
   end
